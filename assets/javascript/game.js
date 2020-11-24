@@ -1,7 +1,7 @@
 
 
 //The Variables for the game.
-var computerChoices = ["anakin", "chewbacca", "mace windu", "emperor palpatine", "han solo", "obi wan kenobi"];
+var computerChoices = ["anakin", "chewbacca", "mace windu", "emperor palpatine", "han solo", "obi wan kenobi", "yoda", "Luke Skywalker", "Princess Leia",];
 var numWins = 0;
 var numLosses = 0;
 var guessLeft;
